@@ -1,6 +1,6 @@
 # Magnetic-Loop-PFSS-Tutorial
 
-#### Andy To (MSSL/UCL) - 09 September 2023
+#### Andy To (MSSL/UCL) - 23 September 2022
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andyto1234/Magnetic-Loop-PFSS-Tutorial/HEAD)
 
