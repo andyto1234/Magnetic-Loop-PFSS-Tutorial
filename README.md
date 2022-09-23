@@ -2,6 +2,8 @@
 
 #### Andy To (MSSL/UCL) - 09 September 2023
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andyto1234/Magnetic-Loop-PFSS-Tutorial/HEAD)
+
 
 This tutorial will demonstrate how to overplot field lines onto AIA/EIS maps using the Potential Field Source Surface model (PFSS)
 
