@@ -4,3 +4,4 @@ sunpy
 pfsspy
 eispac
 matplotlib
+lxml
