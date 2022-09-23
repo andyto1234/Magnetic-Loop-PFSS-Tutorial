@@ -1,8 +1,6 @@
-
 astropy
 numpy
 sunpy[all]==3.1.2
-pfsspy
+pfsspy[performance]
 eispac
-matplotlib
 
