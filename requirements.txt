@@ -1,8 +1,7 @@
-zeep
-lxml
+
 astropy
 numpy
-sunpy
+sunpy[all]==3.1.2
 pfsspy
 eispac
 matplotlib
