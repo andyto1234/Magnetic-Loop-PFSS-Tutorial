@@ -1,3 +1,4 @@
+zeep
 lxml
 astropy
 numpy
