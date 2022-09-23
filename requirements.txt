@@ -1,7 +1,8 @@
+lxml
 astropy
 numpy
 sunpy
 pfsspy
 eispac
 matplotlib
-lxml
+
